@@ -1,7 +1,7 @@
 trigger: none
 
 pool:
-  name: Ankit_Agent_RK
+  name: Ankit_Agent
 
 parameters:
   - name: Build
