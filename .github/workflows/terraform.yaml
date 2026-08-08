@@ -56,7 +56,7 @@ jobs:
         with:
           client-id: 5099de5e-5d3c-446b-8f0e-e1a0cc92eba6
           tenant-id: 2fff2da8-8225-4289-a099-a7007fbcaf77
-          subscription-id: 13dfd1e6-6770-4299-b7ea-6aa09b346468
+          subscription-id: 87d50f5f-0378-4bfc-a60a-a6ac3b0e9344
 
       - name: Check Azure Login
         run: az account show
